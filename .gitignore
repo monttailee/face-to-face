@@ -2,7 +2,6 @@
 /logs
 /public
 /dist
-/h5vcard.tar
 /package-lock.json
 .DS_Store
 .idea/
